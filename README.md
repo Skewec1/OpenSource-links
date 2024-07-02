@@ -76,3 +76,82 @@ https://github.com/MaJerle/lwrb
 
 https://gitee.com/yorkjia/cQueue
 
+## 19、CuTest ：⼀款微⼩的C语⾔单元测试框， 全部代码加起来不到⼀千⾏
+
+https://sourceforge.net/projects/cutest/
+
+## 20、cmockery： ⾕歌C单元测试框架。
+
+https://github.com/google/cmockery
+
+## 21、googletest：⾕歌C++测试框架
+
+https://github.com/google/googletest
+
+## 22、LWIP： ⼀个⼩型开源的TCP/IP协议栈 
+
+https://savannah.nongnu.org/projects/lwip/
+
+## 23、SQLite ：⼀个开源的嵌入式关系数据库
+
+https://www.sqlite.org/download.html
+
+## 24、OpenBLT：⼀种开源引导加载程序
+
+https://sourceforge.net/projects/openblt/files/
+
+## 25、Linux Lab ： Linux 内核实验室，基于 Docker/Qemu 的极速 Linux 内核学习、开发和测试环境
+
+https://gitee.com/tinylab/linux-lab
+
+## 26、nr_micro_shell ： shell for MCU，单片机命令⾏交互
+
+https://gitee.com/nrush/nr_micro_shell
+
+## 27、FlexibleButton： FlexibleButton 是⼀个基于标准 C 语⾔的⼩巧灵活的按键处理库
+
+https://github.com/murphyzhao/FlexibleButton
+
+## 28、mbedtls ：⼀个开源、便携,易于使⽤,可读的和灵活的SSL库
+
+https://github.com/Mbed-TLS/mbedtls
+
+## 29、mosquitto或mosquitto(下载速度快)：⼀个开源的MQTT代理
+
+https://github.com/eclipse/mosquitto
+
+## 30、inih： C 语⾔编写的 INI 文件解析器
+
+https://github.com/benhoyt/inih
+
+## 31、QP：QP实时嵌入式框架。
+
+https://www.state-machine.com/
+
+## 32、MS-RTOS： Micro Safe RTOS 。
+
+https://github.com/MS-RTOS
+
+## 33、eepromfs： 基于EEPROM的简易类文件的数据读写库
+
+https://gitee.com/wtau_zaozao/eepromfs?_from=gitee_search
+
+## 34、gear-lib ： 适⽤于IOT/嵌入式/⽹络服务开发的C库
+
+https://gitee.com/gozfreee/gear-lib
+
+## 35、mult_timer ： ⼀个Linux下的超级精简的多重定时器
+
+https://gitee.com/simpost/mult_timer
+
+## 36、EFSM ： 是⼀个基于事件驱动的有限状态机 。
+
+https://gitee.com/simpost/EFSMC
+
+## 37、EasyX：⼀个免费的图形库
+
+https://easyx.cn/
+
+## 38、tbox：⼀个⽤c语⾔实现的跨平台开发库。
+
+https://gitee.com/tboox/tbox
