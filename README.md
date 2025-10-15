@@ -2,7 +2,7 @@
 汇总一些好用的GitHub开源仓库链接
 
 # Git使用
-https://github.com/Skewec1/OpenSource-links/blob/main/README.md
+https://github.com/Skewec1/OpenSource-links/blob/main/%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6.md
 
 # :book: 实用库/框架
 
