@@ -1,6 +1,9 @@
 # OpenSource-links
 汇总一些好用的GitHub开源仓库链接
 
+# Git使用
+https://github.com/Skewec1/OpenSource-links/blob/main/README.md
+
 # :book: 实用库/框架
 
 ## 1、⼀个功能强⼤的嵌入式shell
